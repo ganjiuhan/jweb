@@ -26,5 +26,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     ${pageContext.request.contextPath}
     <%=new Friend().getaName()%>
     second time commit
+    three time
   </body>
 </html>
